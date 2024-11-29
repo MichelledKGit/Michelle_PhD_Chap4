@@ -5,5 +5,5 @@ Please note that the data used in attribute segmentation in City of Cape Town is
 
 The code is provided in 3 parts:
 1) Main code used for the clustering and creation of macro-regions and attirbute segmentations is provided in the jupyter notebook file named Python Code for chap 4 attribute segmentation.ipynb and all supporting documents are provided as a pipe delimited txt or shp files to recreate the results of the toy example
-2) The R code to create the estimated temepratures using Kriging in Temperature kriging.R but since the data is not publically available the raw data is not provided
+2) The R code to create the estimated temepratures using Kriging is in Temperature kriging.R but since the data is not publically available the raw data is not provided
 3) The R code for the SAR model is provided in SAR Model.R since the data is not publically available the raw data is not provided
